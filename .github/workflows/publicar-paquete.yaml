@@ -2,7 +2,7 @@ name: Publicar paquete en GitHub Packages
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
 
   printSomething:
