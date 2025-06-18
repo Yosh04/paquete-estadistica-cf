@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebeam7/paquete-estadistica-cf.git"
+    "url": "https://github.com/Yosh04/paquete-estadistica-cf.git"
   },
   "keywords": [],
   "author": "Yosh Escorcia",
@@ -16,9 +16,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/yosh04/paquete-estadistica-cf/issues"
+    "url": "https://github.com/Yosh04/paquete-estadistica-cf/issues"
   },
-  "homepage": "https://github.com/yosh04/paquete-estadistica-cf#readme",
+  "homepage": "https://github.com/Yosh04/paquete-estadistica-cf#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
