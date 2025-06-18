@@ -4,6 +4,14 @@ on:
     branches:
       - main
 jobs:
+
+  printSomething:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo 'heed'
+
   publicar-paquete:
     runs-on: ubuntu-latest
 
